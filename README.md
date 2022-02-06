@@ -24,3 +24,7 @@ voir la carte sur une minimap
 
 Guide d'exécution:
 * exécuter le fichier main.py par exemple avec "python3 main.py".
+
+
+
+# Version 2: AOE Online
